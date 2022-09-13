@@ -2,7 +2,7 @@
 
 The use case for this project is using the ORM tool Prisma and the CMS Directus installed in the same database, managing the database schema without deleting local data when external changes are made in a local environment.
 
-See my [blog post]() for a guide.
+See my [blog post](https://mytchall.dev/posts/2022/using-prisma-and-directus/) for a guide.
 
 ## Running the app
 * To start the database, run `docker compose up`
